@@ -23,8 +23,7 @@ repository"__
 
 ## Known Bugs
 
-* _headers need to be more centered_
-* __
+* _headers need to be better centered_
 
 ## License
 
@@ -32,4 +31,4 @@ _MIT License_
 
 ## Contact Information
 
-_thisisafake@email.com_
+<i class="ri-mail-line">_Medeirosseth@gmail.com_</i>
