@@ -6,27 +6,27 @@
   margin-right: auto;
 }
 
+.devil {
+  
+}
+
 #point {
-  background-image: url(/image/Point.jpeg);
-  width: 99%;
-  height: 99%;
-  position: relative;
+  background-image: url(/image/devil.jpeg);
+ width: 500px;
+  
 }
 
-ul {
-  list-style-type: none;
-}
+nav {
+  display: flexbox;
+  justify-content: space-between;
+  text-align: center;
+  margin:  auto;
+  }
 
-li {
-  padding-right: 20px;
-}
+  a {
+    color: rgb(240, 131, 123);
+  }
 
-.col-4{
-  position: absolute;
-  bottom: 40%;
-  color: white;
-  border: solid black;
-  border-width: 5px;
-  background-color: white;
-  color: black;
-}
+  .col-6 {
+    border: solid;
+  }
