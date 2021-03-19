@@ -13,7 +13,7 @@
 
 __Gives users a website to learn more about Seth Medeiros. Website links to about me where users are able to 
 gain information about Seths hobbies, job expeirence, and future plans. Website also navigates to Seths GitHub
-repository"
+repository"__
 
 ## Setup/Installation Requirements
 

@@ -28,8 +28,9 @@ ol, ul, h3, .pgtext, .github, span{
 
 #point {
   background-image: url(/image/devil.jpeg);
- width: 500px;
-  
+ width: 50%;
+ height: 50%;
+ margin-left: 25vw;
 }
 
 nav {
@@ -37,12 +38,12 @@ nav {
   justify-content: space-between;
   text-align: center;
   margin:  auto;
-  }
+}
 
-  a {
-    color: rgb(240, 131, 123);
-  }
-
-  li {
+li {
     list-style-type: none;
-  }
+}
+
+.devil{
+  
+}
