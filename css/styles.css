@@ -6,8 +6,28 @@
   margin-right: auto;
 }
 
-.devil {
+.container {
   
+}
+#pg {
+  width: 200px;
+  float: left;
+  border: solid;
+  border-radius: 10px;
+}
+
+#pgright {
+  width: 200px;
+  float: right;
+  border: solid;
+  border-radius: 10px;
+}
+
+ol{
+  text-align: center;
+}
+.pgtext{
+  text-align: center;
 }
 
 #point {
@@ -40,5 +60,9 @@ nav {
   }
 
   ul {
+    text-align: center;
+  }
+
+  h3 {
     text-align: center;
   }
