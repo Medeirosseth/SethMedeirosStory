@@ -7,6 +7,16 @@
 }
 
 #point {
+  background-image: url(/image/Point.jpeg);
   width: 99%;
   height: 99%;
+  position: relative;
+}
+
+h1 {
+  border: solid;
+  background-color: honeydew;
+  position: absolute;
+  bottom: 500px;
+  left: 500px;
 }
