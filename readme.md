@@ -20,7 +20,6 @@ repository__
 * _Follow links to GitHub repository_
 * _fork file/gitclone_
 
-
 ## Known Bugs
 
 * _headers need to be better centered_
