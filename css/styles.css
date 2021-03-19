@@ -30,3 +30,15 @@ nav {
   .col-6 {
     border: solid;
   }
+
+  .github {
+    text-align: center;
+  }
+
+  li {
+    list-style-type: none;
+  }
+
+  ul {
+    text-align: center;
+  }
