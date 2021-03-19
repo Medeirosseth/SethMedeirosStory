@@ -1,14 +1,10 @@
 #banner {
-
   width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-span{
-  text-align: center;
-}
 #pg {
   width: 200px;
   float: left;
@@ -23,7 +19,7 @@ span{
   border-radius: 10px;
 }
 
-ol{
+ol, ul, h3, .pgtext, .github, span{
   text-align: center;
 }
 .pgtext{
@@ -47,22 +43,6 @@ nav {
     color: rgb(240, 131, 123);
   }
 
-  .col-6 {
-    border: solid;
-  }
-
-  .github {
-    text-align: center;
-  }
-
   li {
     list-style-type: none;
-  }
-
-  ul {
-    text-align: center;
-  }
-
-  h3 {
-    text-align: center;
   }
