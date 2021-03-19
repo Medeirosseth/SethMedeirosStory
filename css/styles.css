@@ -13,10 +13,20 @@
   position: relative;
 }
 
-h1 {
-  border: solid;
-  background-color: honeydew;
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding-right: 20px;
+}
+
+.col-4{
   position: absolute;
-  bottom: 500px;
-  left: 500px;
+  bottom: 40%;
+  color: white;
+  border: solid black;
+  border-width: 5px;
+  background-color: white;
+  color: black;
 }
