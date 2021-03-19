@@ -1,0 +1,6 @@
+#banner{
+  display flexbox;
+  width: 300px;
+  padding-left: 37%;
+  margin: auto;
+}
