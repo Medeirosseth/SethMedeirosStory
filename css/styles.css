@@ -19,6 +19,29 @@
   border-radius: 10px;
 }
 
+#devil-belly{
+  width: 200px;
+  float: left;
+  border: solid;
+  border-radius: 10px;
+}
+
+#devil-pg{
+  width: 200px;
+  float: right;
+  border: solid;
+  border-radius: 10px;
+}
+
+#devil-hidden{
+  display: hidden;
+  width: 200px;
+  float: left;
+  border: solid;
+  border-radius: 10px;
+  
+}
+
 ol, ul, h3, .pgtext, .github, span{
   text-align: center;
 }
