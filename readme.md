@@ -17,8 +17,9 @@ repository__
 
 ## Setup/Installation Requirements
 
-* _Follow links to GitHub repository_
-* _fork file/gitclone_
+* _[Click Here](https://medeirosseth.github.io/portfolio-landing-page/) to veiw webpage_
+* _https://github.com/Medeirosseth/portfolio-landing-page_
+* _git clone (((above url here)))_
 
 ## Known Bugs
 
