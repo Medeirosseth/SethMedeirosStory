@@ -73,7 +73,28 @@ li {
   font-weight: 700;
 }
 
+.black-link {
+  border: solid;
+  background-color: black;
+  color: white;
+}
+
 .black-link:hover {
-  color: black;
+  color: rgb(255, 255, 255);
   font-weight: bold;
+}
+
+#color{
+  border: solid;
+  font-size: 2px;
+  background-color: black;
+  color: white;
+}
+
+.spooky{
+  background-color: rgb(184, 142, 135);
+}
+
+.creepy{
+  background-color: rgb(70, 65, 65);
 }

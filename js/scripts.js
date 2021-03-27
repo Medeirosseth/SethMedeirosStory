@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("#devil-belly").click(function() {
-    
-  })
-})
+  $("button#color").click(function() {
+    $("#colorz").addClass("spooky");
+  });
+});
